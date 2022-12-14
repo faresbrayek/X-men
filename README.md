@@ -26,14 +26,14 @@
 
 ```bash
 open AndroidStudioProjects dir
-git clone https://github.com/faresbrayek/ktob.git
+git clone https://github.com/faresbrayek/X-men.git
 open it in android studio
 ```
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```bash
 open AndroidStudioProjects dir
-git clone https://github.com/faresbrayek/ktob.git
+git clone https://github.com/faresbrayek/X-men.git
 open it in android studio
 ```
 <h2>Version 1</h2>
